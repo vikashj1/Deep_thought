@@ -1,4 +1,4 @@
-# Deep_thought
+# Setting up Android Studio
 1.	First, I navigated to the Android Studio download page at https://developer.android.com/studio.
 2.	Then I clicked on the "Download Android Studio" button. Which started the download process of Android Studio.
 3.	The installation process took some time to complete. Once the installation was complete, I clicked on the "Next" button to proceed.

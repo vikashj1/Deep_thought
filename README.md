@@ -6,3 +6,5 @@
 5.	Once the installation process was complete, I launched the Android Studio.
 6.	On the welcome screen, I clicked on the "Configure" button and selected "SDK Manager".
 7.	Once the SDK components were downloaded, I created a new Android project by clicking on the "Start a new Android Studio project" button on the welcome screen.
+8.	# Screenshot
+![App](https://user-images.githubusercontent.com/97089277/234660764-0fe5895a-e0fd-42d7-8d23-8c329f63677d.PNG)
